@@ -49,20 +49,19 @@ Para una primera versión vamos a tener un fichero de texto, en el que cada lín
 
 Algunas restricciones:
 
-    * el email y contraseña van a ser obligatorios, sino es así no se creará el registro y se informará de ello.
-    * en esta primera versión la contraseña no irá cifrada, pero si en la siguiente versión.
+* el email y contraseña van a ser obligatorios, sino es así no se creará el registro y se informará de ello.
+* en esta primera versión la contraseña no irá cifrada, pero si en la siguiente versión.
 
 El servicio de usuario tendrá las acciones:
 
-    * añadir
-    * buscar por email
-    * validar
+* añadir
+* buscar por email
+* validar
 
 El repositorio (primera versión sobre ficheros):
     
-    * almacenar
-    * recuperar
+* almacenar
+* recuperar
 
 En nuestra web tendremos una página de inicio con email y contraseña para validarnos. 
 Si no nos podemos validar en el sistema, nos aparecerá un mensaje de error. Si estamos dentro veremos información sobre nosotros y un listado de usuarios.
-
