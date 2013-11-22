@@ -1,5 +1,5 @@
 <?php
-namespace Test\Functional\Acme;
+namespace Tests\Functional\Agilecyl;
 /**
  * Test with Selenium
  */ 

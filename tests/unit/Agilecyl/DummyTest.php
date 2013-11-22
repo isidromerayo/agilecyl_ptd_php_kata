@@ -1,12 +1,6 @@
 <?php
+namespace Tests\Unit\Agilecyl;
 
-namespace Acme;
-
-/**
- * Description of DummyTest
- *
- * @author isidromerayo
- */
 class DummyTest extends \PHPUnit_Framework_TestCase
 {
     /**
@@ -15,7 +9,7 @@ class DummyTest extends \PHPUnit_Framework_TestCase
     public function sayHelloFabien()
     {
         $expected = 'Hello Fabien';
-        $actual = \Acme\Dummy::sayHello('Fabien');
+        $actual = \Agilecyl\Dummy::sayHello('Fabien');
         $this->assertEquals($expected, $actual);
     }
 }

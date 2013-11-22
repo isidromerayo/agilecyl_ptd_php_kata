@@ -1,11 +1,6 @@
 <?php
-namespace Acme;
+namespace Tests\Unit\Agilecyl;
 
-/**
- * Description of DependencyInjectionTest
- *
- * @author isidromerayo
- */
 class DependencyInjectionTest extends \PHPUnit_Framework_TestCase
 {
     public function setUp()

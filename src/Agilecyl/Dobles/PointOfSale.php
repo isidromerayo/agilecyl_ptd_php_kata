@@ -1,5 +1,5 @@
 <?php
-namespace Acme\Dobles;
+namespace Agilecyl\Dobles;
 /**
  * Description of PointOfSale
  *
