@@ -45,7 +45,7 @@ Para una primera versión vamos a tener un fichero de texto, en el que cada lín
 
     juan; pérez peréz; juanperez@ejemplo.com;juan;[contabilidad,dirección]
     maría; garcía garcía; martagarcia@ejemplo.com;maria;[contabilidad]
-    sergio; fernández diéz; sergio@ejemplo.com;oigres;[TI,BBDD]
+    sergio; fernández díez; sergio@ejemplo.com;oigres;[TI,BBDD]
 
 Algunas restricciones:
 
